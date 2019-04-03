@@ -3,3 +3,4 @@
 
 * Team: Yi (3rd place)   
 * Data: https://tbrain.trendmicro.com.tw/Competitions/Details/2
+* Method: OGA+HDIC+Trim, XGBoost, Random Forest, SVM, GLM
